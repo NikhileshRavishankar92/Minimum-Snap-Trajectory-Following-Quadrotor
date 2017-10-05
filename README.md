@@ -3,6 +3,10 @@ Compute the minimum snap trajectory for a given set of waypoints and design a co
 
 ![Alt text](https://github.com/NikhileshRavishankar92/Minimum-Snap-Trajectory-Following-Quadrotor/blob/master/Min_snap_traj.jpg)
 
+![Alt text](https://github.com/NikhileshRavishankar92/Minimum-Snap-Trajectory-Following-Quadrotor/blob/master/Helix_traj.jpg)
+
+![Alt text](https://github.com/NikhileshRavishankar92/Minimum-Snap-Trajectory-Following-Quadrotor/blob/master/Line_traj.jpg)
+
 # Setup Instructions
 
 Note: The quadrotor simulator was designed as a part of the Aerial Robotics MOOC on Coursera.
